@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Hermandad</string>
+
+    <string name="textview">TextView</string>
+    <string name="lblHermandad">Hermandad</string>
+    <string name="button">Button</string>
+    <string name="btnLogIn">Iniciar Sesión</string>
+    <string name="btnSignIn">Registrarse</string>
+    <string name="btnEntrar">Entrar</string>
+    <string name="btnEnviar">Enviar</string>
+
+    <string name="lblBienvenido">Bienvenido</string>
+    <string name="lblContraseña">Contraseña</string>
+    <string name="lblEntrar">Entrar</string>
+    <string name="lblInicioSesion">Inicio de Sesión</string>
+    <string name="lblRegistrar">Registrarse</string>
+    <string name="lblOlvideContr">Olvidé mi contraseña</string>
+    <string name="lblRecuperarContr">Recuperar Contraseña</string>
+    <string name="lblRecuperarContrInfo">Escriba el correo electrónico registrado con su cuenta para recibir su contraseña</string>
+
+    <string name="lblNombre">Nombre(s)</string>
+    <string name="lblApellidoP">Apellido Paterno</string>
+    <string name="lblApellidoM">Apellido Materno</string>
+    <string name="lblCorreo">Correo Electrónico</string>
+    <string name="lblNumCasa">Número de domicilio</string>
+    <string name="lblContra">Contraseña</string>
+    <string name="btnAtras">Atrás</string>
+    <string name="txtNumUsuario">Número de Usuario</string>
+
+    <string name="btnReportes">Reportes</string>
+    <string name="btnChat">Chat General</string>
+    <string name="btnEventos">Eventos</string>
+    <string name="btnPerfil">Perfil</string>
+    <string name="btnEmergecias">Emergencias</string>
+    <string name="btnLlamarEmergencias">Llamar a Emergencias</string>
+
+    <string name="lblRepHoy">Hoy</string>
+    <string name="lblRepEspera">Espera</string>
+    <string name="lblRepTerminados">Terminados</string>
+    <string name="btnCrearRepo">Crear Reporte</string>
+    <string name="lblIdReporte">ID Reporte</string>
+    <string name="lblIdUsuario">ID Usuario</string>
+    <string name="lblMotivo">Motivo</string>
+    <string name="lblDescrip">Descripción</string>
+    <string name="lblFecha">Fecha</string>
+    <string name="lblEstadoRepo">Estado</string>
+    <string name="btnCrear">Crear</string>
+    <string name="lblNumRepo">Número de Reporte</string>
+
+    <string name="lblPerfil">Perfil</string>
+    <string name="lblNombreC">Nombre completo</string>
+    <string name="lblNumRepoCreados">Número de reportes creados</string>
+    <string name="lblNombreComunidad">Nombre de la comunidad</string>
+
+    <string name="lblIdEvento">Id Evento</string>
+    <string name="lblTipoEvento">Tipo de Evento</string>
+    <string name="lblDescripcionEvento">Descripción del evento</string>
+    <string name="lblCrearEvento">Crear Evento</string>
+    <string name="lblNumeroEvento">Número de Evento</string>
+    <string name="lblHora">Hora</string>
+
+
+</resources>
